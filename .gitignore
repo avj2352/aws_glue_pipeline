@@ -1,0 +1,12 @@
+# ignore folders
+node_modules
+aws
+.terraform
+cdk.out/
+etc/
+
+# ignore files
+.DS_Store
+.env
+Makefile
+.jotdown-db.json
